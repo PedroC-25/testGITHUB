@@ -1,9 +1,9 @@
 html {
-    background: #a5b1b1;
+    background: #1b33ea;
 }
 
 body {
-    background: #dddada;
+    background: #30ea0e;
     box-shadow: 0 0 2px rgba(66, 149, 72, 0.86);
     color: #1414ed;
     font-family: Helvetica;
@@ -15,7 +15,7 @@ body {
 }
 
 h1, h2 {
-    color: #b41414;
+    color: #908d8d;
     font-weight: 600;
     line-height: 1.3;
 }
