@@ -1,0 +1,33 @@
+html {
+    background: #a5b1b1;
+}
+
+body {
+    background: #dddada;
+    box-shadow: 0 0 2px rgba(66, 149, 72, 0.86);
+    color: #1414ed;
+    font-family: Helvetica;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2em 2em 4em;
+}
+
+h1, h2 {
+    color: #b41414;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+h2 {
+    margin-top: 1.8em;
+}
+
+a {
+    color: #159541;
+}
+
+b, strong {
+    font-weight: 900;
+}
